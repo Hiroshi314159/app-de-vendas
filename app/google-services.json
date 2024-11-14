@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818201974313",
+    "project_id": "app1-4de85",
+    "storage_bucket": "app1-4de85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818201974313:android:69fdb78715722da44e2e38",
+        "android_client_info": {
+          "package_name": "com.trabalho.appvendas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKz5No5Qnujz3LOkxAqwnwfg5yNFGRGqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
